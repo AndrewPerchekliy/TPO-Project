@@ -33,25 +33,4 @@ This repository contains various independent projects, each focusing on specific
 | 🌍 **`Travel-Data-Database`** | A comprehensive localization project that reads travel offers in multiple languages, formats dates and currencies dynamically, and stores them in a local SQLite database with a GUI viewer. | `JDBC`, `SQLite`, `Locale`, `NumberFormat` |
 
 ---
-
-## 🚀 Getting Started
-
-Each project is designed to be self-contained. To run any of the projects locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AndrewPerchekliy/TPO-Project.git
-   cd TPO-Project
-   ```
-
-2. **Open in your IDE:**
-   Import the repository into IntelliJ IDEA, Eclipse, or your preferred IDE. Each folder acts as its own module or project.
-
-3. **Run the Main Class:**
-   Navigate to the `src` directory of the project you want to test and execute the `Main.java` class.
-
-> [!NOTE]
-> Some projects, like the `Web-Service-Integration`, require external API keys (e.g., OpenWeatherMap, Fixer.io) passed as environment variables or VM arguments.
-
----
 *Developed by **Andrii Percheklii** as part of academic coursework.*
