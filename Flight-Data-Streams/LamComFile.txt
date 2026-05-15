@@ -1,0 +1,3 @@
+Cars:
+- Fiat: 15, Ford: 20
+- Opel: 8, Mitsubishi: 10
